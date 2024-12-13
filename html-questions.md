@@ -3,6 +3,8 @@
 1. **What is the difference between HTML and XHTML?**
    - Expected answer: HTML is more lenient and allows some unclosed tags, while XHTML is a stricter version of HTML that follows XML rules and requires proper tag closure and case-sensitivity.
 
+Q. **what are the new tags included in HTML5?**
+
 2. **What are semantic HTML tags? Can you give examples?**
    - Expected answer: Semantic tags clearly describe their meaning in a human- and machine-readable way. Examples: `<article>`, `<section>`, `<header>`, `<footer>`, `<nav>`, `<aside>`.
 
